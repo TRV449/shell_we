@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("test st1r\n");
+	printf("test str\n"); //아 졸려
 }
