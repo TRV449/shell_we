@@ -1,0 +1,23 @@
+
+.form_text_alert_padding_log{
+    padding-bottom: 15px;
+}
+
+.form_submit_button_log{
+    width: 100%; 
+    height: 44px; 
+    background-color: rgb(255, 145, 55); 
+    border: 1px; 
+    border-radius: 3px; 
+    color: white; 
+    font-size: 17px; 
+    font-weight: 500;
+}
+
+.form_input_log{
+    width: 98%; 
+    height: 30px; 
+    border: 1px solid; 
+    border-radius: 3px; 
+    border-color: gray;
+}
