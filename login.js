@@ -7,6 +7,10 @@ function login() {
         document.getElementById('alert_id_log').innerText = "";
         form.id_log.style.borderColor = '#00D000';
     } else {
+        $('#idinputlogin').trigger('startRumble');
+        setTimeout(function() {
+            $('#idinputlogin').trigger('stopRumble');
+          }, 3000);
         form.id_log.style.borderColor = '#FF0000';
         document.getElementById('alert_id_log').style.color = '#FF0000';
     }
