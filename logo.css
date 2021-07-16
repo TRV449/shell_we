@@ -1,0 +1,14 @@
+.logobutton{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    height: 100%;
+}
+
+.logoimg{
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    object-fit: cover;
+}

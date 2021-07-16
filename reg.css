@@ -1,4 +1,4 @@
-.main_container{
+.imain_container{
     left: 0%;
     width: 100%;
     height: 100%;
@@ -55,9 +55,10 @@
     color: white; 
     font-size: 17px; 
     font-weight: 500;
+    cursor: pointer;
 }
 
-.container{
+.icontainer{
 	left: 20%;
     width: 60%;
     height: 60%;

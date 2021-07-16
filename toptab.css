@@ -1,0 +1,33 @@
+.topcont{
+    border: 1px solid; 
+    border-radius: 3px; 
+    border-color: gray;
+    left: 2.5%;
+    width: 95%;
+    height: 15%;
+    position:relative;
+}
+
+.quiztab{
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    height: 100%;
+    padding-left: 10px;
+}
+
+.developertab{
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    height: 100%;
+}
+
+
+.playerinfo{
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    height: 100%;
+    padding-left: 10px;
+}
