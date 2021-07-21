@@ -6,9 +6,20 @@
     height: 100%;
 }
 
+.init_logobutton{
+    background-color: transparent;
+    /*border: 1px solid;
+    border-color:gray;*/
+    border:none;
+    cursor: pointer;
+    width: 50%;
+    height: 18%;
+}
+
 .logoimg{
     width: auto;
     height: auto;
+    max-height: 100%;
     max-width: 100%;
     object-fit: cover;
 }

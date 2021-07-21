@@ -1,12 +1,28 @@
 .container{
     width: 99%;
     height: 98%;
+    float: none;
     position: absolute;
 }
 
 .main_container{
     background-color: #ffffff;
+    float: left;
+    left: 2.5%;
     width: 95%;
+    height: 80%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    border: 1px solid;
+    border-color: gray;
+    border-radius: 0.5ex;
+}
+
+.init_main_container{
+    background-color: #BDBDBD;
+    width: 30%;
     height: 80%;
     position: relative;
     margin-left: auto;
